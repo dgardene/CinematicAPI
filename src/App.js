@@ -1,6 +1,6 @@
 // import React, { useState } from "react";
 import { useState, useEffect } from "react";
-import "./App.css";
+// import "./App.css";
 import MovieCard from "./MovieCard";
 import SearchIcon from "./search.svg";
 const API_URL = "http://www.omdbapi.com?apikey=25956992";
